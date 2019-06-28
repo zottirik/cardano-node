@@ -21,7 +21,7 @@ $ mkdir data && chmod 777 data
 ## Building Image
 
 ```
-$ git clone https://github.com/cipherzzz/cardano-node
+$ git clone https://github.com/zottirik/cardano-node
 
 $ cd cardano-node
 
